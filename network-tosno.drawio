@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.3.0">
   <diagram name="Страница-1" id="QUGH0ExV4xEs_J6ou-N7">
-    <mxGraphModel dx="2428" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2702" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y-c9UfNHDzoS5xid9xxV-15" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="Rostelecom" vertex="1">
-          <mxGeometry height="370" width="600" x="-400" y="148.5" as="geometry" />
+          <mxGeometry height="370" width="600" x="-270" y="148.5" as="geometry" />
         </mxCell>
         <mxCell id="Y-c9UfNHDzoS5xid9xxV-17" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.android_phone" value="Samsung a55" vertex="1">
           <mxGeometry height="50" width="30" x="850" y="750" as="geometry" />
