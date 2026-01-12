@@ -13,11 +13,11 @@
         <mxCell id="Y-c9UfNHDzoS5xid9xxV-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vlan 1350" vertex="1">
           <mxGeometry height="410" width="370" x="300" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="Y-c9UfNHDzoS5xid9xxV-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;10.135.0.1/24&amp;nbsp; vlan 1350 (lan)&lt;/div&gt;&lt;div&gt;10.135.1.1/24 vlan 1351 (wifi)&lt;/div&gt;&lt;div&gt;10.135.2.1/24 vlan 1352 (IOT)&lt;/div&gt;&lt;div&gt;10.135.3.1/24 vlan 1352 (guest)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="Y-c9UfNHDzoS5xid9xxV-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;95.54.46.212&lt;/div&gt;&lt;div&gt;10.135.0.1/24&amp;nbsp; vlan 1350 (lan)&lt;/div&gt;&lt;div&gt;10.135.1.1/24 vlan 1351 (wifi)&lt;/div&gt;&lt;div&gt;10.135.2.1/24 vlan 1352 (IOT)&lt;/div&gt;&lt;div&gt;10.135.3.1/24 vlan 1352 (guest)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="170" width="360" x="570" y="190" as="geometry" />
         </mxCell>
         <mxCell id="Y-c9UfNHDzoS5xid9xxV-5" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.routers.10700;" value="" vertex="1">
-          <mxGeometry height="53" width="78" x="700" y="297" as="geometry" />
+          <mxGeometry height="53" width="78" x="719" y="307" as="geometry" />
         </mxCell>
         <mxCell id="Y-c9UfNHDzoS5xid9xxV-6" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="&lt;div&gt;Sony&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="78" x="340" y="490" as="geometry" />
