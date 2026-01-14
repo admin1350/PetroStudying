@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0" version="29.3.1">
   <diagram name="Страница-1" id="8R-0y-WoA-Lmnfvox-N1">
-    <mxGraphModel dx="1026" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1207" dy="2025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
           <mxGeometry height="50" width="101" x="198.5" y="-70" as="geometry" />
         </mxCell>
         <mxCell id="RVy9xRhmXHkH2o-SCebg-23" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="severen" vertex="1">
-          <mxGeometry height="110" width="200" x="470" y="-320" as="geometry" />
+          <mxGeometry height="110" width="200" x="770" y="-80" as="geometry" />
         </mxCell>
         <mxCell id="RVy9xRhmXHkH2o-SCebg-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Servers&lt;/div&gt;" vertex="1">
           <mxGeometry height="10" width="150" x="660" y="230" as="geometry" />
