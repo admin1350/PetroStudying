@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RVy9xRhmXHkH2o-SCebg-22" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;" value="sw 1" vertex="1">
-          <mxGeometry height="50" width="101" x="198.5" y="-30" as="geometry" />
+          <mxGeometry height="50" width="101" x="198.5" y="-70" as="geometry" />
         </mxCell>
         <mxCell id="RVy9xRhmXHkH2o-SCebg-23" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="severen" vertex="1">
           <mxGeometry height="110" width="200" x="470" y="-320" as="geometry" />
