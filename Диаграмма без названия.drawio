@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.3.0">
   <diagram name="Страница-1" id="8R-0y-WoA-Lmnfvox-N1">
-    <mxGraphModel dx="1281" dy="1827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1348" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="RVy9xRhmXHkH2o-SCebg-11" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;" value="pc 3" vertex="1">
           <mxGeometry height="70" width="78" x="146" y="315" as="geometry" />
         </mxCell>
-        <mxCell id="RVy9xRhmXHkH2o-SCebg-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;10.0.0.1/24 - vlan 100&lt;/div&gt;&lt;div&gt;10.1.1.1/24&amp;nbsp; &amp;nbsp;- vlan 200&lt;/div&gt;" vertex="1">
+        <mxCell id="RVy9xRhmXHkH2o-SCebg-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="&lt;div&gt;10.0.0.1/24 - vlan 100&lt;/div&gt;&lt;div&gt;10.1.1.254/24&amp;nbsp; &amp;nbsp;- vlan 200&lt;/div&gt;" vertex="1">
           <mxGeometry height="180" width="260" x="450" y="-150" as="geometry" />
         </mxCell>
         <mxCell id="RVy9xRhmXHkH2o-SCebg-30" edge="1" parent="1" source="RVy9xRhmXHkH2o-SCebg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="RVy9xRhmXHkH2o-SCebg-23">
