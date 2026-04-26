@@ -29,4 +29,4 @@ let warmestRoom = getRoomName(maxTemp);
 
 // Выводим д информацию по комнатам
 console.log(`Самая холодная комната: ${coldestRoom} (${minTemp}°C) - рекомендуется увеличить отопление`);
-console.log(`Самая тёплая комната: ${warmestRoom} (${maxTemp}°C)`);
+console.log(`Самая тёплая комната: ${warmestRoom} (${maxTemp}°C)`); 
